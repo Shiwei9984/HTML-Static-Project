@@ -1,0 +1,22 @@
+video{
+    position:absolute;
+    top:0;
+    right:0;
+    transform:translate(-50%,0%);
+}
+img{
+    position:absolute;
+    bottom:0;
+    right:0;
+    transform:translate(-50%,-20%);
+}
+article{
+  padding:20px;
+}
+body{
+    background:aquamarine;
+    font-family:'Times New Roman', Times, serif;
+}
+h1,h2{
+    font-family:'Courier New', Courier, monospace;
+}
