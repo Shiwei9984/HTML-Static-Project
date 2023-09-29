@@ -1,3 +1,13 @@
 body{
     background-color:aquamarine;
 }
+p{
+    font-family:'Courier New', Courier, monospace;
+}
+
+.video2{
+    position:absolute;
+    top:0;
+    right:0;
+    transform:translate(-50%,0%)
+}
